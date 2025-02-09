@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Sequence/.vs
+/Sequence/Sequence/bin/Debug/net8.0
+/Sequence/Sequence/obj
+/Sequence/SequenceTests/bin/Debug/net8.0
+/Sequence/SequenceTests/obj
